@@ -1,0 +1,8 @@
+{
+  "klass": "Configs::Project::Save",
+  "maximumSave": 3,
+  "saveKey": 0,
+  "saveHeader": "PKPRT",
+  "baseFilename": "Saves/Pokemon_Party",
+  "isCanSaveOnAnySave": true
+}
