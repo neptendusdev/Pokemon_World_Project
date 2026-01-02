@@ -495,9 +495,9 @@
     "klass": "TextInfo"
   },
   {
+    "klass": "TextInfo",
     "fileId": 9000,
-    "textId": 88,
-    "klass": "TextInfo"
+    "textId": 88
   },
   {
     "fileId": 9001,

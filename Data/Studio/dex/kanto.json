@@ -1,0 +1,48 @@
+{
+  "klass": "Dex",
+  "id": 2,
+  "dbSymbol": "kanto",
+  "startId": 1,
+  "csv": {
+    "csvFileId": 100063,
+    "csvTextIndex": 2
+  },
+  "creatures": [
+    {
+      "dbSymbol": "bulbasaur",
+      "form": 0
+    },
+    {
+      "dbSymbol": "ivysaur",
+      "form": 0
+    },
+    {
+      "dbSymbol": "venusaur",
+      "form": 0
+    },
+    {
+      "dbSymbol": "charmander",
+      "form": 0
+    },
+    {
+      "dbSymbol": "charmeleon",
+      "form": 0
+    },
+    {
+      "dbSymbol": "charizard",
+      "form": 0
+    },
+    {
+      "dbSymbol": "squirtle",
+      "form": 0
+    },
+    {
+      "dbSymbol": "wartortle",
+      "form": 0
+    },
+    {
+      "dbSymbol": "blastoise",
+      "form": 0
+    }
+  ]
+}

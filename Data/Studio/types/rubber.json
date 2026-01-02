@@ -1,0 +1,49 @@
+{
+  "klass": "Type",
+  "id": 19,
+  "dbSymbol": "gomme",
+  "textId": 18,
+  "damageTo": [
+    {
+      "defensiveType": "gomme",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "electric",
+      "factor": 2
+    },
+    {
+      "defensiveType": "fire",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "ice",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "poison",
+      "factor": 0
+    },
+    {
+      "defensiveType": "rock",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "steel",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "bug",
+      "factor": 2
+    },
+    {
+      "defensiveType": "grass",
+      "factor": 2
+    },
+    {
+      "defensiveType": "inconnu",
+      "factor": 0.5
+    }
+  ],
+  "color": "#fd2683"
+}

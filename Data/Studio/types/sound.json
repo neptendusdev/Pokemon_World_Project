@@ -1,0 +1,53 @@
+  {
+  "klass": "Type",
+  "id": 20,
+  "dbSymbol": "son",
+  "textId": 19,
+  "damageTo": [
+    {
+      "defensiveType": "bug",
+      "factor": 0
+    },
+    {
+      "defensiveType": "steel",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "ground",
+      "factor": 2
+    },
+    {
+      "defensiveType": "electric",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "water",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "ice",
+      "factor": 2
+    },
+    {
+      "defensiveType": "son",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "psychic",
+      "factor": 2
+    },
+    {
+      "defensiveType": "lumiere",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "fairy",
+      "factor": 2
+    },
+    {
+      "defensiveType": "inconnu",
+      "factor": 0.5
+    }
+  ],
+  "color": "#86bafd"
+}

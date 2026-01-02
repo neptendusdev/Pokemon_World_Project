@@ -1,15 +1,16 @@
 o:Configs::CreditsConfig:@project_splashI"
-title:ET:	@bgmI"ending.ogg;T:@line_heighti:@speedf44:@leader_spacingi5:@chief_project_titleI"Main Supporter;T:@chief_project_nameI"Pokémon Workshop;T:@leaders[{:
-titleI"Creator of PSDK;T:	nameI"Nuri Yuri;T{;I"Developer of LiteRGSS2;T;I"Scorbutics;T{;I"Maintainers of PSDK;T;I"%Aerun, Nuri Yuri, Palbolsky, Rey;T{;I""Lead Graphic Designer of PSDK;T;I"SirMalo;T{;I""Developers of Pokémon Studio;T;I"eAerun, HollowGap, karbbone, mentalyaz, Nuri Yuri,
-                Palbolsky, Walven, Waris, Zozo;T{;I")Former Developers of Pokémon Studio;T;I"arki, Badong, Toinane;T{;I"#Consultant for Pokémon Studio;T;I"WatchMeBakinWaffles;T{;I" Active contributors of PSDK;T;I"%invatorzen, Lexio, Matatix, Zozo;T{;I"Occasional contributors;T;I"0Beef, Enigmix, Flo, joeyw, Mud, SoloReprise;T{;I"MacOS Supporter;T;I"Lynn Isip;T{;I"Former Developer of PSDK;T;I"
-Leikt;T:@game_creditsI"B# PSDK related credits
+title:ET:	@bgmI"ending.ogg;T:@line_heighti:@speedi1:@leader_spacingi5:@chief_project_titleI"Main Supporter;T:@chief_project_nameI"Pokémon Workshop;T:@leaders[{:
+titleI"Creator of PSDK;T:	nameI"Nuri Yuri;T{;I"Developer of LiteRGSS2;T;I"Scorbutics;T{;I"Maintainers of PSDK;T;I"%Aerun, Nuri Yuri, Palbolsky, Rey;T{;I""Lead Graphic Designer of PSDK;T;I"SirMalo;T{;I""Developers of Pokémon Studio;T;I"VAerun, Aelysya, karbbone, mentalyaz,
+                Nuri Yuri, Palbolsky, Walven;T{;I")Former Developers of Pokémon Studio;T;I"2arki, Badong, HollowGap, Toinane, Waris, Zozo;T{;I"#Consultant for Pokémon Studio;T;I"WatchMeBakinWaffles;T{;I" Active contributors of PSDK;T;I",invatorzen, Lexio, ralandel, zhec, Zozo;T{;I"Occasional contributors;T;I"9Beef, Enigmix, Flo, joeyw, Matatix, Mud, SoloReprise;T{;I"MacOS Supporter;T;I"Lynn Isip;T{;I"Former Developer of PSDK;T;I"
+Leikt;T:@game_creditsI"�
+# PSDK related credits
 
 ## Pokémon Universe
 Game Freak, CREATURES INC. et The Pokémon Company
 
 ## Graphic Engine
 
-### Backend
+### Backend & Audio
 SFML
 
 ### Contributors
@@ -21,12 +22,7 @@ SuperFola || Nuri Yuri
 ### FMOD
 FIRELIGHT TECHNOLOGIES PTY LTD
 
-### SFML Audio
-SFML
-
 ## Movie Engine
-
-### SfeMovie
 Loïc Siquet || Alexandre Janniaux
 Martin Bohme || Martin Bohme
 Xorlium || timidouveg
@@ -58,7 +54,7 @@ joeyw || Mauduss
 Nuri Yuri || Palbolsky
 PokeAPI || RebelIce
 Tokeur || Redder
-Schneitizel || Walven
+Walven
 
 ## Translation
 Aerun || Dax
@@ -87,111 +83,38 @@ Otaku || Shamoke
 Solfay || sylvaintr
 UltimaShayra || Unbreakables
 
+
 # Resource related credits
 
 ## Tilesets
+### SirMalo
+MewTheMega || Kyle-Dove
+Magiscarf || Pablus94
+Princess Phoenix || Zeo254
 
-### Epic Adventures tileset
-Alistair || Alucus
-Bakura155 || Bati'
-Blue Beedrill || BoOmxBiG
-CNickC/CNC || CrimsonTakai
-Cuddlesthefatcat || ThePokemonChronicles
-Dewitty || EpicDay
-Fused || Gigatom
-Chimcharsfireworkd || Heavy-Metal-Lover
-Hek-el-grande || Kage-No-Sensei
-Kyledove || LaPampa
-LotusKing || New-titeuf
-Novus || Pokemon_Diamond
-Kizemaru_Kurunosuke || PrinceLegendario
-Reck || Red-Gyrados
-REMY35 || Saurav
-SL249 || Spaceemotion
-SirMalo || Stefpoke
-sylver1984 || ThatsSoWitty
-TheEnglishKiwi || Thegreatblaid
-TwentyOne || UltimoSpriter
-Warpras || WesleyFG
-Yoh || Nuri Yuri
-19dante91 || 27alexmad27
-07harris/Paranoid ||  
+## Sprites
 
-## Overworlds Sprites
+### Pokémon Overworlds Sprites 1 to 1025 and officials forms
+pmdcollab.org
 
-### Gen1 to 7 Overworlds
-2and2makes5 || Aerun
-Chocosrawlooid || cSc-A7X
-Fernandojl || Gallanty
-Getsuei-H || Gizamimi-Pichu
-help-14 || kdiamo11
-Kid1513 || Kyle-Dove
-Kyt666 || Milomilotic11
-MissingLukey || Pokegirl4ever
-Silver-Skies || Syledude
-TyranitarDark || Zyon17
-Zenos ||  
+### Pokémon Battlers Sprites 1 to 1025 and officials forms
+Pokémon Anil's SpriteSheets || Smogon Sprite Project
 
-### Gen6 Overworlds
-Princess-Phoenix
-LunarDusk6
-
-## Pokémon Sprites
-
-### Gen6 Pokémon Battlers (including megas)
-Amras || BladeRed
-Diegotoon20 || Domino99designs
-Falgaia || GeoisEvil
-Juan-Amador || N-Kin
-Noscium || SirAquaKip
-Zermonious || Zerudez
-Smogon XY Sprite Project ||  
-
-### Gen7 Pokémon Battlers (including Alolan)
-Alex || Amethyst
-Bazaro || conyjams
-DatLopunnyTho || Falgaia
-fishbowlsoul90 || Jan
-kaji atsu || Koyo
-Leparagon || Lord-Myre
-LuigiPlayer || N-kin
-Noscium || Pikafan2000
-Smeargletail || Smogon
-princess-phoenix || The cynical poet
-Zumi ||  
-
-### Gen8 Pokémon Battlers
-WolfPP
-conyjams
+### Custom Form Pokémon Battlers Sprites from anim & spin off
+wiki.pokeclicker.com
 
 ### Pokémon Offsets
 Don
 
-## Icon Sprites
-
-### Animated Pokémon icons
-Pikachumazzinga
-
-### Gen7 Pokémon icons
-Otaku
-Poképedia
-
-### Item icons
-Maxoumi (Brick icon & ADN Berserk)
-yyyyj (Pink Ribon icons)
+## Pokémon icons & Item icons
+From Devianart of MCMechachu
 
 ## Soundtracks
 
 ### Zinnia Battle Theme Remix
  TeruTeruSky
 
-## Texts
-
-### Official Pokémon X/Y Texts
-Kaphotics || Peterko
-Smogon || X-Act
-
-### Official Sun & Moon Texts
+## Official Pokémon Texts
 Asia81
 
 ## UI Design
@@ -234,6 +157,9 @@ Yumekua
 
 ## Animations
 
+### Battle Animations
+ralandel || Sirmalo
+
 ### Gen6 Battle Entry
 Jayzon
 
@@ -243,7 +169,7 @@ Metaiko || Isomir
 KLNOTHINCOMIN ||  
 
 ### Shiny Animations
-Neslug
+ralandel
 
 ## Miscellaneous
 

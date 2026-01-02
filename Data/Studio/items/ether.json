@@ -11,7 +11,7 @@
   "isHoldable": true,
   "isAllowingMega": false,
   "flingPower": 30,
-  "klass": "PPHealItem",
+  "klass": "AllPPHealItem",
   "loyaltyMalus": 0,
   "ppCount": 10,
   "isBerry": false

@@ -5,6 +5,7 @@
   "bgmDuration": 11774700,
   "isLanguageSelectionEnabled": true,
   "additionalSplashes": [
+    "creators",
     "pokemon_workshop"
   ],
   "controlWaitTime": 1
