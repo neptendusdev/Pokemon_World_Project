@@ -75,7 +75,7 @@
         "footprint": "0005",
         "character": "0005",
         "characterShiny": "0005s",
-        "egg": "egg",
+        "egg": "0004_egg",
         "iconEgg": "0004egg",
         "cry": "0005.ogg",
         "hasFemale": false

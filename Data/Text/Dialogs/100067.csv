@@ -1,5 +1,5 @@
 en,fr,it,de,es,ko,kana
-Bulbasaur,Bulbizarre,Bulbasaur,Bisasam,Bulbasaur,이상해씨,フシギダネ
+Bulbasaur,Carastral,Bulbasaur,Bisasam,Bulbasaur,이상해씨,フシギダネ
 Ivysaur,Herbizarre,Ivysaur,Bisaknosp,Ivysaur,이상해풀,フシギソウ
 Venusaur,Florizarre,Venusaur,Bisaflor,Venusaur,이상해꽃,フシギバナ
 Mega Venusaur,Méga Florizarre,Mega Venusaur,Mega Bisaflor,Mega Venusaur,메가이상해꽃,メガフシギバナ
@@ -11,7 +11,7 @@ Mega Charizard Y,Méga Dracaufeu Y,Mega Charizard Y,Mega Glurak Y,Mega Charizard
 Squirtle,Carapuce,Squirtle,Schiggy,Squirtle,꼬부기,ゼニガメ
 Wartortle,Carabaffe,Wartortle,Schillok,Wartortle,어니부기,カメール
 Blastoise,Tortank,Blastoise,Turtok,Blastoise,거북왕,カメックス
-Mega Blastoise,Méga Tortank,Mega Blastoise,Mega Turtok,Mega Blastoise,메가거북왕,メガカメックス
+Mega Blastoise,Méga Tortank X,Mega Blastoise,Mega Turtok,Mega Blastoise,메가거북왕,メガカメックス
 Caterpie,Chenipan,Caterpie,Raupy,Caterpie,캐터피,キャタピー
 Metapod,Chrysacier,Metapod,Safcon,Metapod,단데기,トランセル
 Butterfree,Papilusion,Butterfree,Smettbo,Butterfree,버터플,バタフリー
@@ -1396,3 +1396,20 @@ Herbizarre de Kalos,Herbizarre de Kalos,Herbizarre de Kalos,Herbizarre de Kalos,
 Florizarre de Kalos,Florizarre de Kalos,Florizarre de Kalos,Florizarre de Kalos,Florizarre de Kalos,Florizarre de Kalos,Florizarre de Kalos
 Florizarre Cloné,Florizarre Cloné,Florizarre Cloné,Florizarre Cloné,Florizarre Cloné,Florizarre Cloné,Florizarre Cloné
 Gangstarapuce,Gangstarapuce,Gangstarapuce,Gangstarapuce,Gangstarapuce,Gangstarapuce,Gangstarapuce
+NewText,Chartue,NewText,NewText,NewText,NewText,NewText
+Méga Tortank,Méga-Tortank Y,Méga Tortank,Méga Tortank,Méga Tortank,Méga Tortank,Méga Tortank
+Tortank Gigamax,Parrain Tortank,Tortank Gigamax,Tortank Gigamax,Tortank Gigamax,Tortank Gigamax,Tortank Gigamax
+Gangstarabaffe,Gangstarabaffe,Gangstarabaffe,Gangstarabaffe,Gangstarabaffe,Gangstarabaffe,Gangstarabaffe
+Tortank Cloné,Tortank Cloné,Tortank Cloné,Tortank Cloné,Tortank Cloné,Tortank Cloné,Tortank Cloné
+NewText,Carastral,NewText,NewText,NewText,NewText,NewText
+Rattatac d'Alola,Roittatac,Rattatac d'Alola,Rattatac d'Alola,Rattatac d'Alola,Rattatac d'Alola,Rattatac d'Alola
+Vorasdepic,Rattatac d'Alola,Vorasdepic,Vorasdepic,Vorasdepic,Vorasdepic,Vorasdepic
+Esudem,Vorasdepic,Esudem,Esudem,Esudem,Esudem,Esudem
+Dracaufeu Cloné,Dracaufeu Cloné,Dracaufeu Cloné,Dracaufeu Cloné,Dracaufeu Cloné,Dracaufeu Cloné,Dracaufeu Cloné
+Esudem,Esudem,Esudem,Esudem,Esudem,Esudem,Esudem
+NewText,Gorochu,NewText,NewText,NewText,NewText,NewText
+Raichu d'Alola,Raichu d'Alola,Raichu d'Alola,Raichu d'Alola,Raichu d'Alola,Raichu d'Alola,Raichu d'Alola
+NewText,Vulpyro,NewText,NewText,NewText,NewText,NewText
+Goupix d'Alola,Goupix d'Alola,Goupix d'Alola,Goupix d'Alola,Goupix d'Alola,Goupix d'Alola,Goupix d'Alola
+Para,Para,Para,Para,Para,Para,Para
+Papignoble,Papignoble,Papignoble,Papignoble,Papignoble,Papignoble,Papignoble

@@ -51,6 +51,16 @@
               ]
             }
           ]
+        },
+        {
+          "dbSymbol": "gorochu",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 47
+            }
+          ]
         }
       ],
       "experienceType": 1,
@@ -99,10 +109,10 @@
         "characterF": "0025",
         "characterShiny": "0025s",
         "characterShinyF": "0025s",
-        "cry": "0025.ogg",
-        "hasFemale": true,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "0025.ogg",
+        "hasFemale": true
       },
       "moveSet": [
         {
@@ -476,10 +486,10 @@
         "characterF": "0025_01",
         "characterShiny": "0025s_01",
         "characterShinyF": "0025s_01",
-        "cry": "0025.ogg",
-        "hasFemale": true,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "0025.ogg",
+        "hasFemale": true
       },
       "moveSet": [
         {
@@ -845,10 +855,10 @@
         "footprint": "0025",
         "character": "0025_02",
         "characterShiny": "0025s_02",
-        "cry": "0025.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "0025.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -1214,10 +1224,10 @@
         "footprint": "0025",
         "character": "0025_03",
         "characterShiny": "0025s_03",
-        "cry": "0025.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "0025.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -1583,10 +1593,10 @@
         "footprint": "0025",
         "character": "0025_04",
         "characterShiny": "0025s_04",
-        "cry": "0025.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "0025.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -1952,10 +1962,10 @@
         "footprint": "0025",
         "character": "0025_05",
         "characterShiny": "0025s_05",
-        "cry": "0025.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "0025.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -2321,10 +2331,10 @@
         "footprint": "0025",
         "character": "0025_06",
         "characterShiny": "0025s_06",
-        "cry": "0025.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "0025.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -2690,10 +2700,10 @@
         "footprint": "0025",
         "character": "0025_07",
         "characterShiny": "0025s_07",
-        "cry": "0025.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "0025.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -3059,10 +3069,10 @@
         "footprint": "0025",
         "character": "",
         "characterShiny": "",
-        "cry": "0025.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "0025.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {

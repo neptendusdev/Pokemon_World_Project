@@ -1,18 +1,26 @@
 module CustomEggGroups
   @pokemon_patches = {
     # ID_DU_POKEMON => [Groupe1, Groupe2]
-    :bulbasaur => [21],
-    :ivysaur => [20, 7],
-    :venusaur => [20, 7],
-    :charmander => [21],
-    :charmeleon => [35, 14],
-    :charizard => [35, 43],
+    :bulbasaur => [20],
+    :ivysaur => [19, 7],
+    :venusaur => [19, 7],
+    :charmander => [20],
+    :charmeleon => [32, 14],
+    :charizard => [32, 39],
     :squirtle => [21],
-    :wartortle => [35, 29],
-    :blastoise => [35, 29],
-    :caterpie => [17, 41],
-    :metapod => [17],
-    :butterfree => [17, 43],
+    :wartortle => [32, 27],
+    :blastoise => [32, 27],
+    :caterpie => [16, 37],
+    :metapod => [16],
+    :butterfree => [16, 39],
+    :weedle => [16, 37],
+    :kakuna => [16],
+    :beedrill => [16, 39],
+    :pidgey => [18, 39],
+    :pidgeotto => [18, 39],
+    :pidgeot => [18, 39],
+    :rattata => [33],
+    :raticate => [33],
   }
   def self.pokemon_patches
     return @pokemon_patches

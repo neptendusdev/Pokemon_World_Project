@@ -1,0 +1,4 @@
+o:!Configs::Project::Autoscaler:@global_activation_switchiÉ:%@allow_level_scaling_down_switchiÊ:$@allow_evolution_scaling_switchiË:)@allow_evolution_scaling_down_switchiÌ:"@allow_moveset_scaling_switchiÍ:'@allow_moveset_scaling_down_switchiÎ:#@allow_trainers_scaling_switchiÏ:(@allow_ally_trainers_scaling_switchiÐ:'@allow_wild_battles_scaling_switchiÑ:(@allow_quest_rewards_scaling_switchiÒ:/@allow_non_level_up_moves_replacing_switchiÓ:1@allow_different_type_moves_replacing_switchiÔ:)@allow_status_moves_replacing_switchiÕ:@scaling_mode_variableiÉ:&@maximum_levels_to_scale_variableiÊ:"@manual_target_level_variableiË:"@flat_level_modifier_variableiÌ:%@multiple_evolutions_choice_modeI"random:ET:+@evolution_levels_for_specific_methods{:loyalty[ii#:
+skill[ii#:dayNight[iiA:weather[ii#:env[ii#:	maps[ii#:	func[ii#:nature[ii#:
+stone[i#i-:
+trade[ii-:itemHold[ii#:@custom_evolution_checks[[I"sneasel;Ti#[I"gligar;Ti2
