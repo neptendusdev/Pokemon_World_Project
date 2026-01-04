@@ -12,7 +12,7 @@ class Game_System
       #Tries to remove day/night if it already exists
       bgm.name.delete_suffix!("_day") if (bgm.name.end_with?("_day"))
       bgm.name.delete_suffix!("_night") if (bgm.name.end_with?("_night"))
-      
+
       #Actually changes the bgm
       if ($game_switches[Yuki::Sw::TJN_MorningTime] || $game_switches[Yuki::Sw::TJN_DayTime]) #Day or Morning
         Audio.bgm_play(_utf8("Audio/BGM/" + bgm.name + "_day"), bgm.volume, bgm.pitch)
